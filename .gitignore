@@ -1,0 +1,19 @@
+# Bỏ qua folder chứa model đã huấn luyện
+crypto-qa-model/
+crypto-qa-model-checkpoint/
+
+
+# Bỏ qua file Python cache
+__pycache__/
+*.pyc
+
+# Bỏ qua file log hoặc file tạm (nếu có)
+*.log
+*.tmp
+
+# Bỏ qua file môi trường ảo (nếu dùng)
+env/
+.venv/
+
+# Bỏ qua file hệ thống
+.DS_Store
